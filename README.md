@@ -90,10 +90,6 @@ Contributions to the Fuel Pump Management System are welcome! To contribute:
 
 Please ensure that your contributions adhere to the project's coding standards and guidelines.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any inquiries or issues, please contact [musaad03@gmail.com](mailto:musaad03@gmail.com).
