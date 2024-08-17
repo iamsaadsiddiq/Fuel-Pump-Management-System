@@ -59,5 +59,5 @@ Please ensure that your contributions adhere to the project’s coding standards
 
 ## Contact
 
-For any inquiries or issues, please contact musaad03@gmailccom.
+For any inquiries or issues, please contact musaad03@gmail.com.
 
