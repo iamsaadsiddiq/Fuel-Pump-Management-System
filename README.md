@@ -1,7 +1,3 @@
-Here’s a more detailed `README.md` file for the **Fuel Pump Management System**, with expanded sections on features:
-
----
-
 # Fuel Pump Management System
 
 ## Description
